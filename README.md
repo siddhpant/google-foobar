@@ -1,3 +1,7 @@
+![ASCII art shown when you complete level 5](https://media.githubusercontent.com/media/siddhpant/google-foobar/master/hopping_bunnies.gif)
+
+*Them rescued bunnies be hoppin' happily!*
+
 # What is foobar? Is this some example repo?
 
 Google foobar is a challenge held by Google, which is not accessible generally. You have to either get invited to it by a referral of someone who's already in the system, or Google selects you and invites you when you are browsing Google and its related sites. It consists of a variety of challenges, with 5 levels. The latter levels are *strongly* inclined towards mathematics and algorithms. Foobar has been in the news as a secret hiring program run by Google, but it would be best that you treat it as a set of challenges to complete, and learn many things along the way. The hiring part is a lucky bonus, but it's certainly not guarenteed. ~~lmao retard you won't get into Google with this, let go of the stupid wet dream.~~ All in all, it was a good learning oppurtunity.
