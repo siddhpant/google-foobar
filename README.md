@@ -41,7 +41,7 @@ No. You can see the original code and the approach in the comments (except the f
 
 There's no point in copy-pasting, it's in YOUR OWN good to solve yourselves and learn. Though, taking inspirations is fine.
 
-I didn't save the questions for first few challenges, so I had to look them up, only to find availability of solutions (interestingly, solutions were far more easily found than the questions itself). So if you find no/differently styled test cases or difference in function name, that means I had to search that on internet. And anyways you might have stumbled across this while googling your problems / questions / algorithms / approaches too.
+I didn't save the questions for first few challenges, so I had to look them up, only to find availability of solutions (interestingly, solutions were far more easily found than the questions itself). So if you find no/differently styled test cases or difference in function name in the given test cases (`answer` instead of `solution`), that means I had to search that question on internet. And anyways you might have stumbled across this while googling your problems / questions / algorithms / approaches too.
 
 ## Hmmm, nice ... Imma steal this
 
